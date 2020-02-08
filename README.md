@@ -5,4 +5,4 @@
 ### How to use?
   Just add the following list to your pi-hole.
 
-  <code> https://raw.githubusercontent.com/upal2129/pihole-ios-update-blocklist/master/ios-update-blocklist.txt </code>
+  <code> https://raw.githubusercontent.com/upal212/pihole-ios-update-blocklist/master/ios-update-blocklist.txt </code>
