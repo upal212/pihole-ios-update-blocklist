@@ -1,4 +1,4 @@
-# Custom blocklist to include in the main list.
+# iOS Update Blocklist
 
 appldnld.apple.com 
 gdmf.apple.com 
