@@ -1,5 +1,4 @@
 # iOS Update Blocklist
-
 appldnld.apple.com 
 gdmf.apple.com 
 mesu.apple.com 
@@ -8,3 +7,5 @@ ocsp.int-x3.letsencrypt.org
 swscan.apple.com 
 world-gen.g.aaplimg.com 
 xp.apple.com
+xp.itunes-apple.com.akadns.net
+gdmf.v.aaplimg.com
